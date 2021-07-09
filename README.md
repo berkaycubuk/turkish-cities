@@ -14,10 +14,10 @@ it into a json file.
 
 ## How to run it?
 
-1- Download latest xlsx data from https://postakodu.ptt.gov.tr/
-2- Install python and required pip packages
-2- Update filename inside run.py 
-3- Execute the run.py file
+1) Download latest xlsx data from https://postakodu.ptt.gov.tr/
+2) Install python and required pip packages
+3) Update filename inside run.py 
+4) Execute the run.py file
 
 If everything goes well ouput.json file should be created(or updated if you deleted the
 old one) inside your folder.
